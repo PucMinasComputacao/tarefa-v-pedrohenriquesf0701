@@ -15,11 +15,11 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 - Breve descrição sobre seu projeto: Página com notícias e melhores momentos de lutadores de MMA
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
-
+![alt text](image-3.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-
+![alt text](image-2.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
